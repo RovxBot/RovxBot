@@ -1,4 +1,4 @@
-# Hi, I'm RovxBot 👋
+# Hi, I'm Rov 👋
 
 ## About me 
 ---
