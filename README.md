@@ -17,7 +17,7 @@ A set of PowerShell scripts designed to automate the configuration of **Teams Te
 
 ## Stats
 ---
-[![Rov's GitHub stats](https://github-readme-stats.vercel.app/api?username=RovxBot)](https://github.com/anuraghazra/github-readme-stats)
+[![Rov's GitHub stats](https://github-readme-stats.vercel.app/api?username=RovxBot&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Socials
 ---
