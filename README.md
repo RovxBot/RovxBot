@@ -19,6 +19,8 @@ A set of PowerShell scripts designed to automate the configuration of **Teams Te
 ---
 [![Rov's GitHub stats](https://github-readme-stats.vercel.app/api?username=RovxBot&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
+[![wakatime](https://wakatime.com/badge/user/f228fce4-b92b-4f2f-b87a-ffef5a73edaa.svg)](https://wakatime.com/@f228fce4-b92b-4f2f-b87a-ffef5a73edaa)
+
 ## Socials
 ---
 - **GitHub**: [RovxBot](https://github.com/RovxBot)
@@ -27,19 +29,3 @@ A set of PowerShell scripts designed to automate the configuration of **Teams Te
 - **Twitch**: [Rovx](https://www.twitch.tv/rovx)
 
 Feel free to explore my repositories and see what I’m working on. I'm always open to collaboration or sharing insights!
-
-
-<!--
-**RovxBot/RovxBot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
