@@ -15,6 +15,10 @@ An ongoing project where I’m applying DevOps practices to **Intune**. The aim 
 ### [Teams Telephony Configuration](https://github.com/RovxBot/TeamsPhonePolicy)
 A set of PowerShell scripts designed to automate the configuration of **Teams Telephony Policies**. This project simplifies the deployment process, making it easier to roll out Teams telephony features across client environments.
 
+## Stats
+---
+[![Rov's GitHub stats](https://github-readme-stats.vercel.app/api?username=RovxBot)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Socials
 ---
 - **GitHub**: [RovxBot](https://github.com/RovxBot)
