@@ -15,6 +15,15 @@ An ongoing project where I’m applying DevOps practices to **Intune**. The aim 
 ### [Teams Telephony Configuration](https://github.com/RovxBot/TeamsPhonePolicy)
 A set of PowerShell scripts designed to automate the configuration of **Teams Telephony Policies**. This project simplifies the deployment process, making it easier to roll out Teams telephony features across client environments.
 
+### WDAC policy Configuration
+Main policies and deployments to meet Essential Eight guidelines along with custom supplimental policies to whitelist requred applications.
+
+### PowerPages DevOps
+Guidelines for DevOps best practices for Power Pages deployments. 
+
+### Azure Arc Configuration
+Configuration for onboarding both Linux and Windows to Azure along with policies for managing Windows and Linux updates
+
 ## Stats
 ---
 [![Rov's GitHub stats](https://github-readme-stats.vercel.app/api?username=RovxBot&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
