@@ -1,40 +1,40 @@
-# Hi, I'm Rov 👋
+# Hi, I'm Rov <img width="45" height="45" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZmlnbzMwMjBocmJlZWg1cTQ5cnE2N29xeHJxaThyem5sZW1wdHV4ZiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/U3Tfz4as0JGSwSjb7r/giphy.gif"></p>
+Welcome to my GitHub profile!
+<p align="center">
+  <a href="https://github.com/RovxBot"><img src="https://img.shields.io/badge/GitHub-RovxBot-7f53ac?style=for-the-badge&logo=github" alt="GitHub"></a>
+  <a href="https://www.last.fm/user/rovbot"><img src="https://img.shields.io/badge/LastFM-RovBot-647dee?style=for-the-badge&logo=last.fm" alt="LastFM"></a>
+  <a href="https://steamcommunity.com/id/rovbot/"><img src="https://img.shields.io/badge/Steam-Rov-7f53ac?style=for-the-badge&logo=steam" alt="Steam"></a>
+  <a href="https://www.twitch.tv/rovx"><img src="https://img.shields.io/badge/Twitch-Rovx-647dee?style=for-the-badge&logo=twitch" alt="Twitch"></a>
+  <a href="https://rovblog.cooked.beer"><img src="https://img.shields.io/badge/Blog-RovBlog-7f53ac?style=for-the-badge&logo=bookstack" alt="Blog"></a>
+</p>
 
-## About me 
 ---
-PC Gamer, Microsoft consultant, Automation advocate, attempting to bring DevOps practices and configuration as code to everything.
 
-## Projects
+## About Me <img width="45" height="45" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dmx5Zm45dmkzdmp5N2h4MDh5NTVweGdzenFkY3E3ajM4aHBmcWpiNCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/PiIiEQ1R4HBV9YV9xw/giphy.gif"></p>
+
+DevOps Engineer | Cloud Automation Specialist | CI/CD Advocate
+
+
+
 ---
-### [Intune Scripts](https://github.com/RovxBot/IntuneScripts)
-A collection of PowerShell scripts that I've developed over time to automate various tasks in **Microsoft Intune**. These scripts have proven useful in managing deployments for a range of clients.
 
-### Intune Configuration as Code (WIP)
-An ongoing project where I’m applying DevOps practices to **Intune**. The aim is to automate configuration management using version-controlled YAML files and deployment pipelines. Currently a private project, but it’s progressing fast!
+## Projects <img width="45" height="45" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3M3ptZjN0b3pja2J4OGhmdHRyZW5nMDJpengxMTZqY3lpMjZ3djNpMSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/TCaINDQJGnEFNWPhc4/giphy.gif"></p>
 
-### [Teams Telephony Configuration](https://github.com/RovxBot/TeamsPhonePolicy)
-A set of PowerShell scripts designed to automate the configuration of **Teams Telephony Policies**. This project simplifies the deployment process, making it easier to roll out Teams telephony features across client environments.
+*Coming soon!*
 
-### WDAC policy Configuration
-Main policies and deployments to meet Essential Eight guidelines along with custom supplimental policies to whitelist requred applications.
-
-### PowerPages DevOps
-Guidelines for DevOps best practices for Power Pages deployments. 
-
-### Azure Arc Configuration
-Configuration for onboarding both Linux and Windows to Azure along with policies for managing Windows and Linux updates
-
-## Stats
 ---
-[![Rov's GitHub stats](https://github-readme-stats.vercel.app/api?username=RovxBot&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-[![wakatime](https://wakatime.com/badge/user/f228fce4-b92b-4f2f-b87a-ffef5a73edaa.svg)](https://wakatime.com/@f228fce4-b92b-4f2f-b87a-ffef5a73edaa)
+## Stats <img width="45" height="45" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dmx5Zm45dmkzdmp5N2h4MDh5NTVweGdzenFkY3E3ajM4aHBmcWpiNCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/E0Bud9Tnwtmv893CmE/giphy.gif"></p>
 
-## Socials
----
-- **GitHub**: [RovxBot](https://github.com/RovxBot)
-- **LastFM**: [RovBot](https://www.last.fm/user/rovbot)
-- **Steam**: [Rov](https://steamcommunity.com/id/rovbot/)
-- **Twitch**: [Rovx](https://www.twitch.tv/rovx)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RovxBot&show_icons=true&theme=violet-dark" alt="Rov's GitHub stats">
+  <br>
+  <img width="500" src="https://streak-stats.demolab.com/?user=RovXBot&theme=violet-dark&hide_border=true" alt="GitHub Streak Stats">
+</p>
 
-Feel free to explore my repositories and see what I’m working on. I'm always open to collaboration or sharing insights!
+<p align="center">
+  <a href="https://wakatime.com/@f228fce4-b92b-4f2f-b87a-ffef5a73edaa">
+    <img src="https://wakatime.com/badge/user/f228fce4-b92b-4f2f-b87a-ffef5a73edaa.svg" alt="wakatime">
+  </a>
+</p>
+
