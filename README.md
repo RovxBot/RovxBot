@@ -27,14 +27,17 @@ DevOps Engineer | Cloud Automation Specialist | CI/CD Advocate
 ## Stats <img width="45" height="45" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dmx5Zm45dmkzdmp5N2h4MDh5NTVweGdzenFkY3E3ajM4aHBmcWpiNCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/E0Bud9Tnwtmv893CmE/giphy.gif"></p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RovxBot&show_icons=true&theme=violet-dark" alt="Rov's GitHub stats">
-  <br>
-  <img width="500" src="https://streak-stats.demolab.com/?user=RovXBot&theme=violet-dark&hide_border=true" alt="GitHub Streak Stats">
-</p>
-
-<p align="center">
   <a href="https://wakatime.com/@f228fce4-b92b-4f2f-b87a-ffef5a73edaa">
     <img src="https://wakatime.com/badge/user/f228fce4-b92b-4f2f-b87a-ffef5a73edaa.svg" alt="wakatime">
   </a>
 </p>
+  <img width="500" src="https://streak-stats.demolab.com/?user=RovXBot&theme=violet-dark&hide_border=true" alt="GitHub Streak Stats">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RovxBot&show_icons=true&theme=midnight-purple" alt="Rov's GitHub stats">
+  <br>
+
+
+
 
