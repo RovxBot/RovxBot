@@ -12,13 +12,17 @@ Welcome to my GitHub profile!
 
 ## <img src="https://img.shields.io/badge/About%20Me-7f53ac?style=for-the-badge" alt="About Me"> <img width="45" height="45" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dmx5Zm45dmkzdmp5N2h4MDh5NTVweGdzenFkY3E3ajM4aHBmcWpiNCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/PiIiEQ1R4HBV9YV9xw/giphy.gif">
 
-DevOps Engineer | Cloud Automation Specialist | CI/CD Advocate
+DevOps Engineer | Cloud Automation Specialist | CI/CD Advocate | Emulation Enthusiast |
 
 ---
 
 ## <img src="https://img.shields.io/badge/Projects-7f53ac?style=for-the-badge" alt="Projects"> <img width="45" height="45" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3M3ptZjN0b3pja2J4OGhmdHRyZW5nMDJpengxMTZqY3lpMjZ3djNpMSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/TCaINDQJGnEFNWPhc4/giphy.gif">
 
-*Coming soon!*
+- [Talos Kubernetes Homelab](https://github.com/RovxBot/homelab-infra): A personal project to set up a Talos Kubernetes cluster at home for learning and experimentation.
+
+- [AzerothCore mod-customnpcs](https://github.com/RovxBot/mod-customnpcs): A custom module for AzerothCore to add new NPCs to my private server.
+
+- [AzerothCore mod-grimtokendailies](https://github.com/RovxBot/mod-grimtokendailies): A custom module for AzerothCore to add daily quests and custom token rewards to my private server.
 
 ---
 
